@@ -12,4 +12,4 @@
 
 ## We also have an icon above that will take us to our real location, once we accept the permissions
 
-<a href="./ubisecundaria.PNG"><img src="./ubisecundaria.PNG" style="height: 100%; width:100%;"/></a><br>
+<a href="./ubisecundaria.PNG"><img src="./ubisecundaria.PNG" style="height: 40%; width:40%;"/></a><br>
